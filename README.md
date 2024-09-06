@@ -76,8 +76,14 @@
 
 
 
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+
+  </a>
 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
