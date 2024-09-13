@@ -33,8 +33,7 @@
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
-:thinking: I’m currently open for a new `job opportunity`. This is [MY resume](https://drive.google.com/file/d/1OwJqgjHnq2F4Gb91AtKsvTaxwqHcZqxY/view?usp=sharing).
-
+:thinking: I’m currently open for a new `job opportunity`. This is [MY resume](https://drive.google.com/file/d/1lbYjYltmcALxG-BWOWs53_e448XCPIg4/view?usp=drive_link).
 
 
 <h3 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
