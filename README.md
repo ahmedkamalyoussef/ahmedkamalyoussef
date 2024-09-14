@@ -116,7 +116,7 @@
 </a>
 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.6dd327badcd7fb81b64d32f00a81bb3c?rik=cFTT5OG3U2zMdQ&pid=ImgRaw&r=0" alt="dart" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.c979b430b2da155059ebc0a22b0a26ac?rik=KxOp3KkIE4L7uw&pid=ImgRaw&r=0" alt="dart" width="40" height="40"/>
 </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
