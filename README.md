@@ -111,7 +111,13 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/5a36d5dcce1270b6c7d4b6189e2110bcac27cf99e275e8794f02fb295f70312c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f65353066674a693535654b5350554b77356d2f67697068792e676966" alt="flutter" width="40" height="40"/>
+</a>
 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/7b2c6aa2d449a8e75f6b16e5b117a0dff04c717b3d9ecac2401ac2689f9d9da2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4b6a486b3431724d6241437a33526b736b2f67697068792e676966" alt="dart" width="40" height="40"/>
+</a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
   </a>
