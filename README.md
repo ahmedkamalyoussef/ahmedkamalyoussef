@@ -110,9 +110,9 @@
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<!-- <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.c940e427945a4d75c296f346cfb78cb7?rik=oxEpM63SpT0ClQ&pid=ImgRaw&r=0" alt="flutter" width="40" height="40"/>
-</a>
+</a> -->
 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.c979b430b2da155059ebc0a22b0a26ac?rik=KxOp3KkIE4L7uw&pid=ImgRaw&r=0" alt="dart" width="40" height="40"/>
