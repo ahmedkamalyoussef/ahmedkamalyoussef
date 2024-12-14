@@ -82,7 +82,11 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
 
   </a>
+</a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Icon" width="50" height="50" />
 
+  </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
@@ -168,8 +172,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  </a>
 </p>
 
 
