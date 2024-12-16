@@ -111,6 +111,14 @@
   <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" alt="sql" width="40" height="40"/>
 </a>
 
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="redis" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/?msockid=2b73a864f5216a4f09ccbcb2f47a6bee" target="_blank" rel="noreferrer">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/>
+</a>
+
   <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="mvc" width="40" height="40"/>
   </a>
