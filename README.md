@@ -27,7 +27,6 @@
 
 - 🌱 I’m currently learning .NET
 - 🌱 I’m currently learning **Angular**
-- 🌱 I’m currently learning **React js**
 - 🌱 I’m currently learning **Desktop Applications**
 
 - 💬 Ask me about **C#**
