@@ -28,7 +28,6 @@
 - 🌱 I’m currently learning .NET
 - 🌱 I’m currently learning **Angular**
 - 🌱 I’m currently learning **Desktop Applications**
-
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
