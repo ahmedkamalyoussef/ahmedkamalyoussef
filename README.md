@@ -25,10 +25,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="KEMO" /> </p>
 
-- 🌱 I’m currently learning .NET
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Frontend**
 - 🌱 I’m currently learning **Desktop Applications**
-- 💬 Ask me about **C#**
+- 💬 Ask me about **OOP & javascript**
 
 - 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
 :thinking: I’m currently open for a new `job opportunity`. This is [MY resume](https://drive.google.com/file/d/1d4LXY4rqw1hyBmO_e3t1df52wm4tSUVH/view?usp=sharing).
