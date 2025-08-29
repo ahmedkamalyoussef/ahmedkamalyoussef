@@ -82,10 +82,7 @@
 
   </a>
 </a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Icon" width="50" height="50" />
-
-  </a>
+ 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
@@ -169,9 +166,7 @@
   </a>
   
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/brand-github-icon-1024x1024-w6a261tr.png" alt="github" width="40" height="40"/>
-</a>
+
   
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
