@@ -204,7 +204,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmedkamalyoussef's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkamalyoussef&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <a href="https://github.com/ahmedkamalyoussef/github-readme-stats"><img alt="ahmed kamal Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedkamalyoussef&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/ahmedkamalyoussef/github-readme-stats"><img alt="ahmedkamalyoussef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkamalyoussef&langs_count=15&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
