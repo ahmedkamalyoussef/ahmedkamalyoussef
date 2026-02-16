@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **Backend**
 - 🌱 I’m currently learning **Frontend**
 - 🌱 I’m currently learning **Desktop Applications**
-- 💬 Ask me about **OOP & javascript**
+- 💬 Ask me about **OOP , C# & javascript**
 
 - 📫 How to reach me **ahmedkamalyoussef4@gmail.com**
 :thinking: I’m currently open for a new `job opportunity`. This is [MY resume](https://drive.google.com/file/d/1BC6OKhBaVFVU9V63rSG0NFok14rKIb4O/view?usp=drive_link).
